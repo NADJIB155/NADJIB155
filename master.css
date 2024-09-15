@@ -1,0 +1,609 @@
+/*div{
+    /*  color: blue; 
+       background-color: royalblue ;
+       background-image: url(../css/download.png);
+       background-attachment: fixed;
+       background-position: left center ; 
+       break-after: always;
+       background-size: 100px 50px; */
+       
+       
+       /* background-color: blue;
+       padding: 10px 30px ;
+       width: 50%;
+       margin-left: auto;
+       margin-right: auto;
+      TOP right bottom left; */
+       /*BORDER INFO:*/
+       /* border-width: 25px;
+       border-color: black;
+       border-style: solid; 
+       border: 10PX solid green;
+       outline: auto red;
+       padding: 10px;
+       border: 10px solid blue  ;
+       margin: 20px;
+       display: block;
+    
+     }
+     .DAMN{
+       background-color: black;
+       border:10px solid blue  ;
+       margin: 19px;
+       padding: 10px;
+       visibility: hidden;
+     } */
+     /* .ONE{
+        color: blue;
+        border-bottom: 2PX solid blue ;
+     }
+     .TWO{
+       border-bottom: 2px solid green;
+       color: green;
+       
+    
+     }
+     .THREE{
+       color: blueviolet;
+       border-bottom: 2px solid blueviolet;
+       
+     }
+     .FOUR{
+       border-bottom: 2px solid sandybrown;
+      color: sandybrown; 
+     }
+     .ONE ,
+     .TWO ,
+     .THREE, 
+     .FOUR  {
+       background-color: #eee;
+       padding: 10px;
+       margin: 10px 0;
+    
+     } 
+     div {
+        color:blueviolet ;
+        background-color: #eee;
+        margin: 10px;
+        border-radius: 6px;
+        width: 150px;
+        height: 100px;
+        overflow: auto;
+       }
+       div {
+        background-color: #eee;
+        text-shadow:   horizantl shadow v shadow blur (dbab of shadow) color   ;  5px 2px 3px blueviolet ; /*
+
+       }
+       */
+       /* div {         text-align: center; 
+         direction: ltr;   /* left to right  */
+         /* vertical-align:text-bottom; 
+         letter-spacing: 2px; 
+
+       }
+       a {
+        background-color: yellow;
+        color: black;
+        padding: 10px;
+        display: inline-block;
+        border-radius: 4px;
+        text-decoration: none;
+        text-transform: uppercase;
+       }
+       p {
+        letter-spacing: 2px ;
+        line-height: 1.6;
+        word-spacing: 7px;
+        background-color: #eee;
+        word-break:keep-all;
+        width: 300px;
+       }
+       #FLE{
+        background-color: #eee;
+        overflow: hidden;
+        text-overflow: ellipsis;
+        width: 400px;
+        line-height: 1.6;
+       }
+       /* TEXT EDITING  */
+       /* INHERIT OPTION وراثة */
+        /* div {          text-align: center;
+        padding: 20px;
+        background-color: #eee;
+        font-size: 20px;
+        border: 2px solid blue;
+
+       }
+       div P {
+        border: 3px solid;
+        padding: inherit;
+        border-color: inherit; */
+       
+
+       /* TYPOGRAPHY */ 
+       /* div{ 
+       /* font-size: 4em; 
+      /* CSS UNIT PX . EM (time ) ,rem (root time على حسب فونت سايز فل html)  , percentage vm (view port width)*/ 
+        /* font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; */
+        /* cursor:e-resize; */
+       /* }  */
+       /* .parent { 
+        background-color: red;
+        padding: 10px;
+        overflow: hidden;
+      } */
+
+      /* .parent div { */
+        /* padding-top: 10px; 
+        padding-bottom: 10px;
+        text-align: center;
+        background-color: #eee;
+        display: inline-block;
+       width: 24px;
+        height: auto;
+        font-weight: 200;
+        float: left;
+      }
+      */
+      /* CALC 
+      content width is 100%
+     5spaces 1% * 5 __> 5% from content width 
+     95% AVAILBALE WIDTH
+     5 ELEMENT THE WIDTH IS 95% / 4 
+      */
+      /* body{         margin: 0;
+      }
+      div {
+        padding-top: 10px;
+        padding-bottom: 10px;
+        text-align: center;
+        background-color: #eee;
+        float: left;
+        width: calc(95%/4);
+      margin-left: 1%;
+      display: inline-block;
+       }
+      P {
+        opacity: 0,7;
+        text-align: center ;
+      }  */
+      /* body{ 
+        display:block ;
+        margin: 8px;
+      }
+      div {
+      color: #fff;
+      padding: 10px;
+      width: 100px;
+      text-align: center;
+      position: absolute;
+
+      }
+     .one {
+     background-color: blue;
+    
+     }
+     .two{
+      background-color: brown;
+      
+
+     }
+     .three{
+      background-color: yellow;
+
+     }
+     button{
+     color: blue;
+     border: radius 4px; 
+     position: sticky;
+     
+     top: 0;
+     } */
+     /* position:relative,absolute(),sticky() */
+     /* body { 
+      font-family: Arial, Helvetica, sans-serif;
+     }
+     table{
+      width: 100%;
+      border-spacing: 0px;
+     }
+     table td {
+      padding: 15px;
+      background-color: #eee;
+      border: 1px solid #e2e2e2;
+     }
+     table thead td {
+      background-color: aquamarine;
+      color: #fff;
+      border-color: black;
+      text-align: center;
+      font-weight: bold;
+     } */
+     /* PSEUDO CLASSES */
+     /* .one { 
+      background-color: red;
+      color: cadetblue;
+     }
+     .two {
+      background-color: #eee;
+      width: 100px;
+      height: 100px;
+     }
+     a{
+      color: chartreuse;
+      text-decoration: none;
+     } */
+     /* fake classes */
+      /* a:hover { 
+      color:yellow;
+     }
+     .ch:checked +label {
+      background-color:green;
+     }
+     a:visited {
+      color: tomato;
+     }
+    div:empty{
+      border: 5px solid rgb(0, 255, 55);
+     }
+   .in{
+    border: 1px solid brown;
+   }
+ .in:focus {
+  border-color: #07010aa1;
+  
+ }
+ .one span {
+  display: inline-block;
+  background-color: red;
+  color: white;
+  font-size: 20px;
+  font-weight: bold;
+ }
+ .two::first-letter {
+  display: inline-block;
+  background-color: red;
+  color: white;
+  font-size: 60px;
+  font-weight: bold;
+ 
+ }
+.three::first-line {
+  bottom: 15px;
+  background-color: aquamarine;
+
+}
+.FOUR::selection{
+  background-color: black;
+  color: aquamarine;
+  cursor: e-resize;
+}*/
+/* .parent {
+  margin-bottom: 20px;
+  overflow: hidden;
+  counter-increment: members-counter;
+
+}
+.onee {
+  
+  background-color: #eee;
+  padding: 10px;
+  width: 600px;
+  float: left;
+  position: relative;
+} */
+/* .onee::after {< */
+  /* content: "";
+  position: absolute;
+  width: 5px;
+  height: 100%;
+  right: -10px;
+  top: 0;
+  background-color: #009670;*/
+  
+/* .onee .pipeline {
+position:absolute;
+width: 5px;
+height: 100%;
+right: 10px;
+top: 0;
+background-color: chartreuse;
+} */
+ /* ul{   list-style:none ;
+}
+ul li{
+  position: relative;
+  padding-left: 10px;
+  margin-bottom :10PX;  
+}
+ul li:before{
+  content: "" ;
+  width: 0px;
+  height: 0px;
+  position: absolute;
+  left:-40px;
+  top:40%;
+  margin-top :-10PX; 
+  border-width :10PX;
+  BORDER-style:solid ;
+  border-color :transparent green
+   transparent  transparent ;
+  
+} */
+
+/* VENDORS PREFIXES 
+CHROME
+SAFARI
+FIREFOX
+IE,EDGE
+OPERA 
+[1]NEW CSS FEATURE APPEARED
+[2]BROWSERS TESTS THE FEATURE IN VERSION X 
+[3]BROWSERS ADD PREFIX TO GIVE DEVELOPERS THE ABILITY TO USE IT 
+[4]THE FEATURE IS FULLY SUPPORTED IN VERSION  Y , NO NEED FOR PREFIX 
+-webkit- // chrome
+-moz-//firefox
+-ms-//IE
+-o-//OPERA
+*/
+/* div{
+  width: 150px;
+  height: 150px;
+  background-color: red;
+  margin: 20px auto;
+  border-radius: 1%;
+  outline: 10px solid red;
+   border-top-left-radius: 20px 44PX;
+   border-bottom-right-radius: 20px;
+ }  */
+ /* div {
+  padding: 20px;
+  background-color: #eee;
+  margin: 20px auto;
+  width: 300px;
+  text-align: center;
+
+   /* box-shadow:H SHADOW , v shadow,blur,spread,color ,inset ;
+  */
+  /* box-shadow: 0px 2px 9PX 6px rosybrown; } */
+  *{
+    -webkit-box-sizing: border-box;
+    -MOZ-box-sizing: border-box;
+    box-sizing: border-box;
+  }
+  /* div {
+    text-align: center;
+    position: absolute;
+    right: 200px;
+    left: 100px;
+    
+    width: 200px;
+    height: 100px;
+    background-color: #eee;
+    /* transition-duration: 1s; مدة الايفكت
+    transition-delay: 0.2s; شحال يستنا باش ينتقل للايفكت
+    transition-property:  WIDTH; */
+   /* transition: ALL 2s 0.5s linear; */
+  /* }
+  div:hover{
+    height: 120px;
+    width: 280px;
+  } */
+   /*THE MARGIN COLLAPSE 
+   [1] ONLY VERTICAL MARGIN COLLAPSE
+   [2]BIGGER MARGIN WINS 
+   [3]MARGIN COLLAPSING WITH ELEMENTS WITHOUT ANYTHING BETWEEN 
+    [4] NESTING DOES NOT PREVENT COLLAPSING 
+   */
+  /* 
+  /* css variables 
+  local var يخصو المنت واحد
+  global var كامل الالمنت عندهم اكسس الهم
+  /* 
+  /* flexible box */
+  /* :root{
+    --mainpadding:28PX;
+  }
+*{
+  box-sizing: border-box;
+}
+.FLEX {
+  overflow: hidden;
+  background-color: #eee;
+  width: 500px;
+  padding: var(--mainpadding) auto;
+  margin: 2OPX AUTO ;
+}
+.FLEX div {
+  background-color: red;
+  color: white;
+  float: left;
+  width: 25px;
+  text-align: center;
+  padding: var(--mainpadding);
+}
+.float {
+  overflow: hidden;
+  background-color: #eee;
+  width: 600px;
+  padding: var(--mainpadding);
+  margin: 20px auto ;
+}
+.float div {
+  background-color: #f00;
+  color: white;
+  float: left;
+  
+}
+/* 
+IF FLEX DIR WAS ROW -->justify-content--> x 
+[1]ALIGNE-ITEMS--> y
+[2]aligne-content--> y
+IF FLEX DIR WAS colomun-->justify-content--> y 
+[1]ALIGNE-ITEMS--> x
+[2]aligne-content--> x
+*/  
+/* :root{ 
+  --MAINWIDTH:150PX;
+
+}
+.parent {
+  height: 500px;
+  background-color: #a89d7d;
+   padding: 10px;
+  display: flex;
+  /* flex-direction:row; */
+  /* flex-wrap: wrap; */
+  /*  flex-flow: row  wrap; */
+  /* justify-content:space-evenly ; */
+  /* align-content: center;  */
+  /* align-items: flex-end; */
+  /* gap: 0PX; *
+} 
+.parent div {
+  padding: 10px;
+  margin: 10px;
+}
+.item1{
+  width: var(--MAINWIDTH);
+background-color: aqua;  
+/* align-self:self-start; */
+ /* order: 1; 
+flex-grow: 0;
+
+}
+.item2{
+  background-color: #f00;
+  /* align-self: flex-start; */
+   /* width: var(--MAINWIDTH); 
+  order: 1;
+  flex-grow: 0;
+  flex-shrink: 0;
+}
+.item3{
+  background-color: violet;
+  order: 1;
+  flex-grow: 0;
+  width: var(--MAINWIDTH);
+}
+.item4{
+  background-color: yellow;
+  /* align-self: flex-end; */
+  /* order: 1; 
+  flex-grow: 0;
+  width: var(--MAINWIDTH);
+} */
+
+/* .parent{
+  background-color: red;
+  padding: 10px;
+  height: 400px;
+  display: grid;
+ /* width: 350px; */
+  /* grid-template-columns: repeat(4,AUTO) ; */
+  /* grid-template-rows: 50PX 50px 1FR  ; */
+  /* gap: 10PX  ; */
+  /* justify-content: space-between ; */
+  /* align-content:baseline; */
+  
+/* }
+.parent div{
+  background-color: gold;
+}
+.parent .item1{
+  background-color: aqua;
+  grid-row: 1/4 ;
+  
+} */ 
+.parent {
+  background-color: rgb(107, 107, 121);
+  display:grid;
+  padding: 10px;
+  grid-template-columns:repeat(3,1FR) ;
+  grid-template-rows: repeat(4,100px);
+  gap: 10PX;
+  grid-template-areas: 
+  "head head head "
+ "sdb nav main" 
+ "sdb nav main"
+ "foot foot foot"; 
+}
+.parent div {
+  background-color: blue;
+}
+.header {
+  grid-area: head;
+}
+.sidebar {
+  grid-area: sdb;
+  caret-color: rgb(192, 226, 43);
+}
+.main {
+  grid-area: main;
+}
+.nav{
+  grid-area: nav;
+}
+.footer {
+  grid-area: foot;
+}
+ .test  {
+  width: 90%;
+  height: 90%;
+  background-color: coral;
+  display: flex;
+  justify-content: center;
+  align-items:center ;
+  font-weight: bold;
+  font-size: 30px;
+  margin-top: 5%;
+  margin-left: 5%;
+  transition: 0.5s;
+ }
+ /* responsive screen controle */
+ @media (min-width:601PX) and (max-width : 800PX ){
+  body {
+    background-color: blueviolet;
+  }
+ }
+  
+ @media screen and (max-width:600PX) {
+  h1{
+    color:blue;
+  }
+  
+ }
+.mayb{
+  display: flex;
+  gap: 10PX ;
+  justify-content: center;
+}
+.space {
+  color: brown;
+  background-color: yellow;
+  height: 200px;
+  width: 100px;
+} 
+@media (max-width:600PX) {
+  .mayb{
+    flex-direction: column;
+
+
+  }
+  .space{
+    width: 100%;
+  }
+  
+}
+@media (min-width:600PX) and (max-WIDTH:900PX) {
+  .mayb{
+    flex-wrap: wrap;
+
+
+  }
+  .space{
+    width: 49%;
+  }
+  
+}
