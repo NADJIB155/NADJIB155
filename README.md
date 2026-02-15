@@ -1,11 +1,16 @@
-- 👋 Hi, I’m @NADJIB155
-- 👀 I’m interested in WEB AND MOBILE DEV
-- 🌱 I’m currently learning FRONTENND BASIS HTML CSS JS AND FROM ANOTHER HAND C LANGUAGES
-- 💞️ I’m looking to collaborate on MULTINATIONAL FULL STACK TEAM 
-- 📫 How to reach me LINKEDIN https://www.linkedin.com/in/nadjib-ha-b9192429a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3B4xuHxkcMRgWP9K11KRPYkg%3D%3D 
-  
+### Hi there, I’m @NADJIB155 👋
 
-<!---
-NADJIB155/NADJIB155 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a **3rd-year Computer Science Student** and a passionate **Full Stack Developer** with practical experience in enterprise environments.
+
+- 🔭 **I’m currently working on**: 
+  - My **PFE at Djezzy**, building advanced dashboarding solutions using **Power BI Report Server**.
+  - **LearniX**, a comprehensive e-learning platform built with the **MERN Stack**.
+
+- 🌱 **I have experience with**:
+  - **Web Development**: MERN Stack (MongoDB, Express, React, Node.js) and Java EE.
+  - **Automation**: Designing complex workflows with **n8n**.
+  - **Data Visualization**: Power BI and reporting tools.
+
+- 🚀 **I’m looking to collaborate on**: Open-source full-stack projects or automation tools.
+
+- 📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/nadjib-ha-b9192429a/)
