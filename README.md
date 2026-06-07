@@ -1,16 +1,19 @@
-### Hi there, I’m @NADJIB155 👋
+# Hi there, I'm Nadjib 
 
-I am a **3rd-year Computer Science Student** and a passionate **Full Stack Developer** with practical experience in enterprise environments.
+I am a **Computer Science Graduate** (Licence) and a passionate **Full Stack & Data Developer** with practical experience in enterprise environments. I love bridging the gap between complex backend architectures and data-driven decision making.
 
-- 🔭 **I’m currently working on**: 
-  - My **PFE at Djezzy**, building advanced dashboarding solutions using **Power BI Report Server**.
-  - **LearniX**, a comprehensive e-learning platform built with the **MERN Stack**.
+*  **I’m currently working on:** * Preparing for my Master's degree studies abroad.
+  * **LearniX**, a comprehensive e-learning platform built with the MERN Stack.
 
-- 🌱 **I have experience with**:
-  - **Web Development**: MERN Stack (MongoDB, Express, React, Node.js) and Java EE.
-  - **Automation**: Designing complex workflows with **n8n**.
-  - **Data Visualization**: Power BI and reporting tools.
+*  **Recently completed:**
+  * **Nova Service (Djezzy):** Designed and deployed a hybrid operational (Flutter/Node.js/PostgreSQL) and decision-making (Python ETL/Power BI) system to optimize telecom infrastructure management.
 
-- 🚀 **I’m looking to collaborate on**: Open-source full-stack projects or automation tools.
+*  **I have experience with:**
+  * **Web & Mobile Development:** MERN Stack (MongoDB, Express, React, Node.js), Java EE, and Flutter.
+  * **Data Engineering & BI:** Python (Pandas, SQLAlchemy, ETL pipelines), Power BI Report Server, DAX.
+  * **Databases:** PostgreSQL (Neon Serverless), MongoDB.
+  * **Automation & Workflows:** Designing complex automation workflows with n8n.
 
-- 📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/nadjib-ha-b9192429a/)
+*  **I’m looking to collaborate on:** Open-source full-stack projects, Data Engineering pipelines, or automation tools.
+
+*  **How to reach me:** [LinkedIn](METTRE_TON_LIEN_LINKEDIN_ICI)
